@@ -12,8 +12,8 @@ directory. Directory names are comprised of underscore-separated tokens:
 
   1. token represents a sequential number of the model,
   2. token refers to training set type:
-    - `1slice` means a single slice of discrete parameters,
-    - `all` means all slices of discrete parameters,
+      - `1slice` means a single slice of discrete parameters,
+      - `all` means all slices of discrete parameters,
   3. token identifies the run from which the training set originates,
   4. token identifies the first batch of the run (inclusive),
   5. token identifies the last batch of the run (exclusive),
