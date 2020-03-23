@@ -1,0 +1,1 @@
+tbr_train nn ../../data/run2 0 100 0.33 ../../models/01_1slice_run2_batch0_100_nn_1h3f256_5ke/test_performance features/single_slice --epochs=5000 --batch-size=16000 --arch-type=1H_3F_256 --out=../../models/01_1slice_run2_batch0_100_nn_1h3f256_5ke/model
