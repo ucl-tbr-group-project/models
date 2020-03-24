@@ -1,0 +1,1 @@
+tbr_train nn ../../data/run1 0 500 0.33 ../../models/06_all_run1_batch0_500_nn_1h3f16_5ke/test_performance 0 0 --epochs=5000 --batch-size=16000 --arch-type=1H_3F_16 --out=../../models/06_all_run1_batch0_500_nn_1h3f16_5ke/model >../../models/06_all_run1_batch0_500_nn_1h3f16_5ke/training.log
