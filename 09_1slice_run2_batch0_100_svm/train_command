@@ -1,0 +1,1 @@
+tbr_train svm ../../data/run2 0 100 0.33 ../../models/09_1slice_run2_batch0_100_svm/test_performance features/single_slice 0 --out=../../models/09_1slice_run2_batch0_100_svm/model >../../models/09_1slice_run2_batch0_100_svm/training.log

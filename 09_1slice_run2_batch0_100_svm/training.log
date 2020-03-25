@@ -1,0 +1,10 @@
+..................................................................................*..........................................................................*.*
+optimization finished, #iter = 156757
+obj = -5705.988618, rho = 1.666621
+nSV = 25679, nBSV = 22471
+Skipping ../../data/run2/batch12_out.csv due to error: <class 'FileNotFoundError'>
+Features in order are: ['blanket_breeder_fraction', 'blanket_breeder_li6_enrichment_fraction', 'blanket_breeder_packing_fraction', 'blanket_coolant_fraction', 'blanket_multiplier_fraction', 'blanket_multiplier_packing_fraction', 'blanket_structural_fraction', 'blanket_thickness', 'firstwall_armour_fraction', 'firstwall_coolant_fraction', 'firstwall_structural_fraction', 'firstwall_thickness']
+Training regressor on set of size 66330
+[LibSVM]Testing regressor on set of size 32670
+Evaluation on test set of size 32670 gives result: 0.044160095533179726
+Done.
